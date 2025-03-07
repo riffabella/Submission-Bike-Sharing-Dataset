@@ -39,7 +39,7 @@ pip install streamlit babel
 pip install matplotlib
 pip install seaborn
 ...
-# Menjalankan Program 
-...
+## Menjalankan Program Dashboard
+***
 streamlit run dashboard/dashboard.py
-...
+***
