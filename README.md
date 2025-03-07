@@ -8,6 +8,7 @@ Pada tahap ini melakukan persiapan dan pengumpulan data, dengan melakukan import
 import pandas as pd
 
 df = pd.read_csv("data.csv", delimiter=",")
+```
 #### Assessing Data
 Pada tahap ini melakuakan pemeriksaan data, untuk mengetahui apakah ada missing value, nilai yang duplikat, ketidaksesuai tipe data dan lain sebagainya.
 ```
